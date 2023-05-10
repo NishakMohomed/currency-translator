@@ -1,0 +1,51 @@
+C:\Users\nisha\Desktop\vb\CurrencyToText\bin\Debug\net6.0-windows\CurrencyToText.exe
+C:\Users\nisha\Desktop\vb\CurrencyToText\bin\Debug\net6.0-windows\CurrencyToText.deps.json
+C:\Users\nisha\Desktop\vb\CurrencyToText\bin\Debug\net6.0-windows\CurrencyToText.runtimeconfig.json
+C:\Users\nisha\Desktop\vb\CurrencyToText\bin\Debug\net6.0-windows\CurrencyToText.dll
+C:\Users\nisha\Desktop\vb\CurrencyToText\bin\Debug\net6.0-windows\CurrencyToText.pdb
+C:\Users\nisha\Desktop\vb\CurrencyToText\obj\Debug\net6.0-windows\CurrencyToText.vbproj.AssemblyReference.cache
+C:\Users\nisha\Desktop\vb\CurrencyToText\obj\Debug\net6.0-windows\CurrencyToText.Form1.resources
+C:\Users\nisha\Desktop\vb\CurrencyToText\obj\Debug\net6.0-windows\CurrencyToText.vbproj.GenerateResource.cache
+C:\Users\nisha\Desktop\vb\CurrencyToText\obj\Debug\net6.0-windows\CurrencyToText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisha\Desktop\vb\CurrencyToText\obj\Debug\net6.0-windows\CurrencyToText.AssemblyInfoInputs.cache
+C:\Users\nisha\Desktop\vb\CurrencyToText\obj\Debug\net6.0-windows\CurrencyToText.AssemblyInfo.vb
+C:\Users\nisha\Desktop\vb\CurrencyToText\obj\Debug\net6.0-windows\CurrencyToText.vbproj.CoreCompileInputs.cache
+C:\Users\nisha\Desktop\vb\CurrencyToText\obj\Debug\net6.0-windows\CurrencyToText.dll
+C:\Users\nisha\Desktop\vb\CurrencyToText\obj\Debug\net6.0-windows\refint\CurrencyToText.dll
+C:\Users\nisha\Desktop\vb\CurrencyToText\obj\Debug\net6.0-windows\CurrencyToText.pdb
+C:\Users\nisha\Desktop\vb\CurrencyToText\obj\Debug\net6.0-windows\CurrencyToText.genruntimeconfig.cache
+C:\Users\nisha\Desktop\vb\CurrencyToText\obj\Debug\net6.0-windows\ref\CurrencyToText.dll
+C:\Users\nisha\Desktop\nanosoft report\CurrencyToText Final\bin\Debug\net6.0-windows\CurrencyToText.exe
+C:\Users\nisha\Desktop\nanosoft report\CurrencyToText Final\bin\Debug\net6.0-windows\CurrencyToText.deps.json
+C:\Users\nisha\Desktop\nanosoft report\CurrencyToText Final\bin\Debug\net6.0-windows\CurrencyToText.runtimeconfig.json
+C:\Users\nisha\Desktop\nanosoft report\CurrencyToText Final\bin\Debug\net6.0-windows\CurrencyToText.dll
+C:\Users\nisha\Desktop\nanosoft report\CurrencyToText Final\bin\Debug\net6.0-windows\CurrencyToText.pdb
+C:\Users\nisha\Desktop\nanosoft report\CurrencyToText Final\obj\Debug\net6.0-windows\CurrencyToText.vbproj.AssemblyReference.cache
+C:\Users\nisha\Desktop\nanosoft report\CurrencyToText Final\obj\Debug\net6.0-windows\CurrencyToText.Form1.resources
+C:\Users\nisha\Desktop\nanosoft report\CurrencyToText Final\obj\Debug\net6.0-windows\CurrencyToText.vbproj.GenerateResource.cache
+C:\Users\nisha\Desktop\nanosoft report\CurrencyToText Final\obj\Debug\net6.0-windows\CurrencyToText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisha\Desktop\nanosoft report\CurrencyToText Final\obj\Debug\net6.0-windows\CurrencyToText.AssemblyInfoInputs.cache
+C:\Users\nisha\Desktop\nanosoft report\CurrencyToText Final\obj\Debug\net6.0-windows\CurrencyToText.AssemblyInfo.vb
+C:\Users\nisha\Desktop\nanosoft report\CurrencyToText Final\obj\Debug\net6.0-windows\CurrencyToText.vbproj.CoreCompileInputs.cache
+C:\Users\nisha\Desktop\nanosoft report\CurrencyToText Final\obj\Debug\net6.0-windows\CurrencyToText.dll
+C:\Users\nisha\Desktop\nanosoft report\CurrencyToText Final\obj\Debug\net6.0-windows\refint\CurrencyToText.dll
+C:\Users\nisha\Desktop\nanosoft report\CurrencyToText Final\obj\Debug\net6.0-windows\CurrencyToText.pdb
+C:\Users\nisha\Desktop\nanosoft report\CurrencyToText Final\obj\Debug\net6.0-windows\CurrencyToText.genruntimeconfig.cache
+C:\Users\nisha\Desktop\nanosoft report\CurrencyToText Final\obj\Debug\net6.0-windows\ref\CurrencyToText.dll
+C:\Users\nisha\Desktop\temp\nanosoft report\CurrencyToText Final\bin\Debug\net6.0-windows\CurrencyToText.exe
+C:\Users\nisha\Desktop\temp\nanosoft report\CurrencyToText Final\bin\Debug\net6.0-windows\CurrencyToText.deps.json
+C:\Users\nisha\Desktop\temp\nanosoft report\CurrencyToText Final\bin\Debug\net6.0-windows\CurrencyToText.runtimeconfig.json
+C:\Users\nisha\Desktop\temp\nanosoft report\CurrencyToText Final\bin\Debug\net6.0-windows\CurrencyToText.dll
+C:\Users\nisha\Desktop\temp\nanosoft report\CurrencyToText Final\bin\Debug\net6.0-windows\CurrencyToText.pdb
+C:\Users\nisha\Desktop\temp\nanosoft report\CurrencyToText Final\obj\Debug\net6.0-windows\CurrencyToText.vbproj.AssemblyReference.cache
+C:\Users\nisha\Desktop\temp\nanosoft report\CurrencyToText Final\obj\Debug\net6.0-windows\CurrencyToText.Form1.resources
+C:\Users\nisha\Desktop\temp\nanosoft report\CurrencyToText Final\obj\Debug\net6.0-windows\CurrencyToText.vbproj.GenerateResource.cache
+C:\Users\nisha\Desktop\temp\nanosoft report\CurrencyToText Final\obj\Debug\net6.0-windows\CurrencyToText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisha\Desktop\temp\nanosoft report\CurrencyToText Final\obj\Debug\net6.0-windows\CurrencyToText.AssemblyInfoInputs.cache
+C:\Users\nisha\Desktop\temp\nanosoft report\CurrencyToText Final\obj\Debug\net6.0-windows\CurrencyToText.AssemblyInfo.vb
+C:\Users\nisha\Desktop\temp\nanosoft report\CurrencyToText Final\obj\Debug\net6.0-windows\CurrencyToText.vbproj.CoreCompileInputs.cache
+C:\Users\nisha\Desktop\temp\nanosoft report\CurrencyToText Final\obj\Debug\net6.0-windows\CurrencyToText.dll
+C:\Users\nisha\Desktop\temp\nanosoft report\CurrencyToText Final\obj\Debug\net6.0-windows\refint\CurrencyToText.dll
+C:\Users\nisha\Desktop\temp\nanosoft report\CurrencyToText Final\obj\Debug\net6.0-windows\CurrencyToText.pdb
+C:\Users\nisha\Desktop\temp\nanosoft report\CurrencyToText Final\obj\Debug\net6.0-windows\CurrencyToText.genruntimeconfig.cache
+C:\Users\nisha\Desktop\temp\nanosoft report\CurrencyToText Final\obj\Debug\net6.0-windows\ref\CurrencyToText.dll
